@@ -65,7 +65,7 @@ public class Main extends javax.swing.JFrame {
 
     public static void main(String args[]) {
         try {
-            IntelliJTheme.setup(Main.class.getResourceAsStream("/Visual_Studio_2019_Dark_Theme.theme.json"));
+            //IntelliJTheme.setup(Main.class.getResourceAsStream("/Material Deep Ocean.theme,json"));
             FlatArcOrangeIJTheme.setup();
         } catch (Exception e) {
 
